@@ -2,3 +2,5 @@
 2025-05-01 10:52:00 | INFO | repo=mpv | action=test | passed=true
 2025-12-03 16:28:00 | INFO | repo=mpv | action=commit
 2025-12-09 15:52:00 | WARN | repo=mpv | action=commit
+2025-01-21 14:28:00 | WARN | repo=mpv | action=edit | files=2
+2025-08-25 16:51:00 | DEBUG | repo=mpv | action=commit
